@@ -67,6 +67,7 @@ freshmarketer.com
 fwtracks.freshmarketer.com
 
 # [Google]
+ade.googlesyndication.com
 adservice.google.com
 afs.googlesyndication.com
 analytics.google.com
