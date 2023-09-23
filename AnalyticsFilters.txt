@@ -1,5 +1,5 @@
 # GiantZeus default blocklist
-# Blocking ad providers
+# Blocking Analytics Trackers
 #
 # Project home page:
 # https://github.com/GiantZeus/PiHole
@@ -19,33 +19,45 @@
 # Create an issue at https://github.com/
 #
 
-# [adcolony]
-ads30.adcolony.com
-adc3-launch.adcolony.com
-events3alt.adcolony.com
-wd.adcolony.com
+# [FreshWorks]
+freshmarketer.com
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
 
-# [amazon.com]
-adtago.s3.amazonaws.com
-analyticsengine.s3.amazonaws.com
-analytics.s3.amazonaws.com
-advice-ads.s3.amazonaws.com
-advertising-api-eu.amazon.com
+# [Google]
+app-measurement.com
+analytics.google.com
+click.googleanalytics.com
+google-analytics.com
+ssl.google-analytics.com
 
-# [doubleclick.net]
-stats.g.doubleclick.net
-ad.doubleclick.net
-static.doubleclick.net
-m.doubleclick.net
-mediavisor.doubleclick.net
+# [Hotjar]
+adm.hotjar.com
+identify.hotjar.com
+insights.hotjar.com
+script.hotjar.com
+surveys.hotjar.com
+careers.hotjar.com
+events.hotjar.io
 
-# [google.com]
-pagead2.googlesyndication.com
-adservice.google.com
-pagead2.googleadservices.com
-afs.googlesyndication.com
+# [Luckyorange]
+luckyorange.com
+api.luckyorange.com
+realtime.luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+upload.luckyorange.net
+cs.luckyorange.net
+settings.luckyorange.net
 
-# [media.net]
-static.media.net
-media.net
-adservetx.media.net
+# [MouseFlow]
+mouseflow.com
+cdn.mouseflow.com
+o2.mouseflow.com
+gtm.mouseflow.com
+api.mouseflow.com
+tools.mouseflow.com
+cdn-test.mouseflow.com
+
+# [Stats WP Plugin]
+stats.wp.com
