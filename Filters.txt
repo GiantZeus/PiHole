@@ -1,0 +1,21 @@
+# GiantZeus default blocklist
+# Blocking Ad Providers & Trackers
+#
+# Project home page:
+# https://github.com/GiantZeus/PiHole
+#
+# Fetch the latest version of this file:
+# https://raw.githubusercontent.com/GiantZeus/PiHole/main/Filters.txt
+#
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+#
+# Contributions by:
+#
+# Further changes and contributors maintained in the commit history at
+# 
+#
+# Contribute:
+# Create an issue at https://github.com/
+#
+
