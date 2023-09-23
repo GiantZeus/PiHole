@@ -73,14 +73,18 @@ analytics.google.com
 analytics.google.com
 app-measurement.com
 app-measurement.com
+beacons.gvt2.com
 click.googleanalytics.com
 click.googleanalytics.com
 google-analytics.com
 google-analytics.com
+lh3.googleusercontent.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 ssl.google-analytics.com
 ssl.google-analytics.com
+www.gstatic.com
+yt3.ggpht.com
 
 # [Hotjar]
 adm.hotjar.com
