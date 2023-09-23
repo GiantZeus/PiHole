@@ -1,5 +1,5 @@
 # GiantZeus default blocklist
-# Blocking ad providers
+# Blocking Ad Providers
 #
 # Project home page:
 # https://github.com/GiantZeus/PiHole
