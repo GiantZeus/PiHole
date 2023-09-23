@@ -19,9 +19,33 @@
 # Create an issue at https://github.com/
 #
 
-# [amazonaws.com]
+# [adcolony]
+ads30.adcolony.com
+adc3-launch.adcolony.com
+events3alt.adcolony.com
+wd.adcolony.com
+
+# [amazon.com]
 adtago.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 analytics.s3.amazonaws.com
 advice-ads.s3.amazonaws.com
 advertising-api-eu.amazon.com
+
+# [doubleclick.net]
+stats.g.doubleclick.net
+ad.doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+
+# [google.com]
+pagead2.googlesyndication.com
+adservice.google.com
+pagead2.googleadservices.com
+afs.googlesyndication.com
+
+# [media.net]
+static.media.net
+media.net
+adservetx.media.net
