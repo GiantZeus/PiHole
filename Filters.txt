@@ -83,7 +83,7 @@ lh3.googleusercontent.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 ssl.google-analytics.com
-ssl.google-analytics.com
+tpc.googlesyndication.com
 www.gstatic.com
 yt3.ggpht.com
 
