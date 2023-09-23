@@ -5,7 +5,7 @@
 # https://github.com/GiantZeus/PiHole
 #
 # Fetch the latest version of this file:
-# https://raw.githubusercontent.com/
+# https://raw.githubusercontent.com/GiantZeus/PiHole/main/AdFilters.txt
 #
 # License:
 # CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
