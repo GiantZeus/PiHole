@@ -19,3 +19,205 @@
 # Create an issue at https://github.com/
 #
 
+# [Adcolony]
+adc3-launch.adcolony.com
+ads30.adcolony.com
+events3alt.adcolony.com
+wd.adcolony.com
+
+# [Apple]
+advertising.apple.com
+api-adservices.apple.com
+books-analytics-events.apple.com
+iadsdk.apple.com
+metrics.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
+notes-analytics-events.apple.com
+tr.iadsdk.apple.com
+weather-analytics-events.apple.com
+
+# [Amazon]
+adtago.s3.amazonaws.com
+advertising-api-eu.amazon.com
+advice-ads.s3.amazonaws.com
+analytics.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+
+# [Bugsnag]
+api.bugsnag.com
+app.bugsnag.com
+notify.bugsnag.com
+sessions.bugsnag.com
+
+# [Doubleclick]
+ad.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+static.doubleclick.net
+stats.g.doubleclick.net
+
+# [Facebook]
+an.facebook.com
+pixel.facebook.com
+
+# [FreshWorks]
+claritybt.freshmarketer.com
+freshmarketer.com
+fwtracks.freshmarketer.com
+
+# [Google]
+adservice.google.com
+afs.googlesyndication.com
+analytics.google.com
+analytics.google.com
+app-measurement.com
+app-measurement.com
+click.googleanalytics.com
+click.googleanalytics.com
+google-analytics.com
+google-analytics.com
+pagead2.googleadservices.com
+pagead2.googlesyndication.com
+ssl.google-analytics.com
+ssl.google-analytics.com
+
+# [Hotjar]
+adm.hotjar.com
+careers.hotjar.com
+events.hotjar.io
+identify.hotjar.com
+insights.hotjar.com
+script.hotjar.com
+surveys.hotjar.com
+
+# [Huawei]
+grs.hicloud.com
+logbak.hicloud.com
+logservice.hicloud.com
+logservice1.hicloud.com
+metrics.data.hicloud.com
+metrics2.data.hicloud.com
+
+# [LinkedIn
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+
+# [Luckyorange]
+api.luckyorange.com
+cdn.luckyorange.com
+cs.luckyorange.net
+luckyorange.com
+realtime.luckyorange.com
+settings.luckyorange.net
+upload.luckyorange.net
+w1.luckyorange.com
+
+# [Media dot net]
+adservetx.media.net
+media.net
+static.media.net
+
+# [MouseFlow]
+api.mouseflow.com
+cdn-test.mouseflow.com
+cdn.mouseflow.com
+gtm.mouseflow.com
+mouseflow.com
+o2.mouseflow.com
+tools.mouseflow.com
+
+# [OnePlus]
+click.oneplus.cn
+open.oneplus.net
+
+# [Oppo]
+adsfs.oppomobile.com
+adx.ads.oppomobile.com
+ck.ads.oppomobile.com
+data.ads.oppomobile.com
+
+# [Pinterest]
+ads.pinterest.com
+analytics.pinterest.com
+log.pinterest.com
+trk.pinterest.com
+widgets.pinterest.com
+
+# [Realme]
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
+iot-eu-logser.realme.com
+iot-logser.realme.com
+
+# [Reddit]
+events.reddit.com
+events.redditmedia.com
+
+# [Samsung]
+analytics-api.samsunghealthcn.com
+nmetrics.samsung.com
+samsung-com.112.2o7.net
+samsungads.com
+smetrics.samsung.com
+
+# [Sentry]
+app.getsentry.com
+browser.sentry-cdn.com
+
+# [Stats WP Plugin]
+stats.wp.com
+
+# [TikTok]
+ads-api.tiktok.com
+ads-sg.tiktok.com
+ads.tiktok.com
+analytics-sg.tiktok.com
+analytics.tiktok.com
+business-api.tiktok.com
+log.byteoversea.com
+
+# [Twitter]
+ads-api.twitter.com
+static.ads-twitter.com
+
+# [Unity]
+adserver.unityads.unity3d.com
+auction.unityads.unity3d.com
+config.unityads.unity3d.com
+webview.unityads.unity3d.com
+
+# [Xiaomi]
+api.ad.xiaomi.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+data.mistat.xiaomi.com
+globalapi.ad.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+sdkconfig.ad.xiaomi.com
+tracking.rus.miui.com
+
+# [Yahoo]
+ads.yahoo.com
+adtech.yahooinc.com
+advertising.yahoo.com
+analytics.query.yahoo.com
+analytics.yahoo.com
+gemini.yahoo.com
+geo.yahoo.com
+log.fc.yahoo.com
+partnerads.ysm.yahoo.com
+udc.yahoo.com
+udcm.yahoo.com
+
+# [Yandex]
+adfox.yandex.ru
+adfstat.yandex.ru
+advertising.yandex.ru
+appmetrica.yandex.ru
+extmaps-api.yandex.net
+metrika.yandex.ru
+offerwall.yandex.net
+
+# [YouTube]
+ads.youtube.com
