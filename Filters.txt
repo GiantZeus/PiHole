@@ -52,6 +52,7 @@ sessions.bugsnag.com
 
 # [Doubleclick]
 ad.doubleclick.net
+g.doubleclick.net
 m.doubleclick.net
 mediavisor.doubleclick.net
 static.doubleclick.net
