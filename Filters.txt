@@ -77,7 +77,7 @@ beacons.gvt2.com
 click.googleanalytics.com
 google-analytics.com
 lh3.googleusercontent.com
-pagead2.googleadservices.com
+# pagead2.googleadservices.com
 pagead2.googlesyndication.com
 ssl.google-analytics.com
 tpc.googlesyndication.com
