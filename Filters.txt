@@ -71,13 +71,9 @@ ade.googlesyndication.com
 adservice.google.com
 afs.googlesyndication.com
 analytics.google.com
-analytics.google.com
-app-measurement.com
 app-measurement.com
 beacons.gvt2.com
 click.googleanalytics.com
-click.googleanalytics.com
-google-analytics.com
 google-analytics.com
 lh3.googleusercontent.com
 pagead2.googleadservices.com
