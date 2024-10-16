@@ -51,7 +51,7 @@ notify.bugsnag.com
 sessions.bugsnag.com
 
 # [Doubleclick]
-ad.doubleclick.net
+# ad.doubleclick.net
 g.doubleclick.net
 m.doubleclick.net
 mediavisor.doubleclick.net
