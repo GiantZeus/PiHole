@@ -50,6 +50,11 @@ app.bugsnag.com
 notify.bugsnag.com
 sessions.bugsnag.com
 
+# [Criteo]
+static.criteo.net
+as.criteo.com
+measurement-api.criteo.com
+
 # [Doubleclick]
 ad.doubleclick.net
 g.doubleclick.net
