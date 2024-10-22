@@ -56,6 +56,7 @@ as.criteo.com
 measurement-api.criteo.com
 
 # [Doubleclick]
+doubleclick.net
 ad.doubleclick.net
 g.doubleclick.net
 m.doubleclick.net
