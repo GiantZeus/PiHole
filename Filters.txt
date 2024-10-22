@@ -25,6 +25,9 @@ ads30.adcolony.com
 events3alt.adcolony.com
 wd.adcolony.com
 
+# [Ad-Delivery]
+ad-delivery.net
+
 # [Apple]
 advertising.apple.com
 api-adservices.apple.com
